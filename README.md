@@ -13,3 +13,5 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 <br>
 <br>
 **Moving forward we will have speakers by January 2017** 
+
+<img src = "codebuds.jpg">
