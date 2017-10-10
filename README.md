@@ -8,3 +8,6 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 * 6:00pm - 6:40pm Whiteboarding, Discuss Personal Projects, Pair Programming 
 
 ** Tickets are limited to 20 software engineers per meetup **
+<br>
+<br>
+Moving forward we will have speakers 
