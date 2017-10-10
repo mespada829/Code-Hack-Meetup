@@ -10,4 +10,4 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 ** Tickets are limited to 20 software engineers per meetup **
 <br>
 <br>
-Moving forward we will have speakers 
+**Moving forward we will have speakers by January 2017 ** 
