@@ -1,2 +1,2 @@
 # Code_Buds
-Monthly Meetup 
+A private monthly meetup for junior software engineers who want to brainstorm together, code and maybe drink a little :drink:
