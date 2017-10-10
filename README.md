@@ -11,6 +11,8 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 
 *Please keep in mind that tickets are limited to 20 software engineers per meetup* 
 <br>
+*The meetup will be the last Thrusday of every month, if it's holiday it will cancelled until the following month*
+<br>
 <br>
 **Moving forward we will have speakers by January 2017** 
 
