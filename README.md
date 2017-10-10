@@ -4,7 +4,7 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 <br>
 **Initial Agenda:**
 <br>
-* 5:30pm - 6:00pm Networking / Catching - finding your favorite spot to code away
+* 5:30pm - 6:00pm Networking / Catching Up - Finding your favorite spot to code away
 * 6:00pm - 6:40pm Whiteboarding, Discuss Personal Projects, Pair Programming 
 
-
+** Tickets are limited to 20 software engineers per meetup **
