@@ -14,6 +14,6 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 *The meetup will be the last Thrusday of every month, if it's holiday it will cancelled or reschedule*
 <br>
 **Meetup Dates:**
-
+<br>
 - Thursday, October 26 2017
-- Thursday, December 7 2017 *Rescheduled due to holiday*
+- Thursday, December 7 2017 **Rescheduled due to holiday**
