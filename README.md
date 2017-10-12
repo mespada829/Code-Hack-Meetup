@@ -13,4 +13,4 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 <br>
 *The meetup will be the last Thrusday of every month, if it's holiday it will cancelled until the following month*
 
-<img src = "codebuds.jpg">
+
