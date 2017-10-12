@@ -5,7 +5,7 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 **Initial Agenda:**
 <br>
 ```
-* 5:30pm - 6:00pm Networking / Catching Up - Finding your favorite spot to code away
+* 5:30pm - 6:00pm Networking / Catching Up - Finding a spot to code away
 * 6:00pm - 9:00pm Whiteboarding, Discuss Personal Projects, Pair Programming 
 ```
 
@@ -14,6 +14,6 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 *The meetup will be the last Thrusday of every month, if it's holiday it will cancelled until the following month*
 <br>
 <br>
-**Moving forward we will have speakers by January 2017** 
+
 
 <img src = "codebuds.jpg">
