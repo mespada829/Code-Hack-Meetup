@@ -1,0 +1,21 @@
+Meetup # 1 - October, 26 2017
+
+Topics we discussed and main project:
+
+* Cloud 9 - https://c9.io/ :
+Will allow you to create an enviroment online free. 
+
+
+* Different shells: Bash, ZSH and Fish 
+
+
+* Combining multiple repos to create a platform for both companies and developers. Where companies can search for the best candidate based on their skills and how to perform the best interview through video and live coding challenges. 
+
+
+Meetup # 2 
+
+* Come with wireframe ideas for the company platform and developer platform.
+* Research how to incorporate a text editor. 
+
+
+We will close the night with some Javascript challenges. 
