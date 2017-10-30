@@ -20,3 +20,6 @@ A private monthly meetup for junior software engineers who want to brainstorm to
 - Pending Date 
 
 
+```
+You can see what we discussed. projects we are working on in the meetup updates text file in the repo
+```
