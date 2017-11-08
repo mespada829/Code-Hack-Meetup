@@ -1,4 +1,4 @@
-# Code Buds
+# Code Hack Meetup
 A private monthly meetup for junior software engineers who want to brainstorm together, code and maybe drink a little :beer: 
 <br>
 <br>
